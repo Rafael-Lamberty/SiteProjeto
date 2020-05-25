@@ -1,0 +1,52 @@
+.black-text{
+    color:black;
+}
+
+.topicos{
+    text-align: center;
+}
+
+#dropdown-topico-1{
+    top:64px !important;
+}
+
+#dropdown-topico-2{
+    top:64px !important;
+}
+
+#dropdown-topico-3{
+    top:64px !important;
+}
+
+.parallax-container{
+    height: 270px;
+}
+
+.imgaedes{
+    object-fit:none;
+}
+
+.sigaedestopo{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 1%;
+}
+
+.parceiros{
+    padding-top: 1%;
+    padding-left: 5px;
+    object-fit:initial;
+    height: 55px;
+    width: 50px;
+}
+
+.imgsigaedes{
+    object-fit:initial;
+    height: 90px;
+    width: 220px;
+}   
+
+.texto-principal{
+    font-size: 15px;
+    text-align: justify;
+}
